@@ -1,4 +1,4 @@
-# Ola eu sou trashzinhook <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+# Ola eu sou Trashzin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
 ```Ola, meu nome e william. newbie devoper.```
 ```Geralmente faço projetos bem faceis,entao espero que ao olhar meus gits voce consiga entender```
